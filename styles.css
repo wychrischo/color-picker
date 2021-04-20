@@ -1,0 +1,8 @@
+@import "color-box.css";
+@import "color-code.css";
+@import "out-box.css";
+@import "social.css";
+
+* {
+  box-sizing: border-box;
+}
