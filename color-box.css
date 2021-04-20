@@ -1,0 +1,23 @@
+.color-box {
+  width: 350px;
+  height: 350px;
+  border-radius: 10px;
+  background-color: #719fb0;
+  position: relative;
+  top: 30px;
+  left: 25px;
+}
+
+.color {
+  position: relative;
+  top: 310px;
+  left: 0px;
+  background-color: #578291;
+  color: white;
+  opacity: 0;
+}
+
+.color-box:hover span {
+  cursor: pointer;
+  opacity: 1;
+}
